@@ -1,0 +1,8 @@
+1.1
+
+def :   Nutrition
+
+    >
+        The science of food; the nutrients and the substances therein; their action, interaction, and balance in relation to health and disvease; and the process by which the organism ingests, digests, absorbs, transports, utilizes, and excretes food substances.
+
+    

@@ -1,0 +1,23 @@
+- [X] ~~Calculus~~                                      MATH    1A      B+
+- [X] ~~Calculus~~                                      MATH    1B      B-
+- [X] ~~Multivariable Calculus~~                        MATH    53      B+
+- [X] ~~Linear Algebra & Differential Equations~~       MATH    54      A-
+- [X] ~~Discrete Mathematics~~                          MATH    55      B+
+- [~] Introduction to Analysis                          MATH    104     In Progress
+- [ ] Second Course in Analysis                         MATH    105     ?
+- [X] ~~Linear Algebra~~                                MATH    110     B
+- [~] Introduction to Abstract Algebra                  MATH    113     In Progress 
+- [ ] Second Course in Abstract Algebra                 MATH    114     ?
+- [ ] Mathematical Logic                                MATH    125A    Fall 2019 
+- [ ] The Classical Geometries                          MATH    130     ?      
+- [ ] Introduction to the Theory of Sets                MATH    135     ?
+- [ ] Incompleteness and Undecidability                 MATH    136     Fall 2019
+- [ ] Elementary Algebraic Topology                     MATH    142     ?
+- [ ] Elementary Algebraic Geometry                     MATH    143     ?
+- [ ] History of Mathematics                            MATH    160     Spring 2020
+- [ ] Introduction to Complex Analysis                  MATH    185     Summer 2019  
+ 
+- [ ] Algorithms                                        CS      170     Fall 2019   
+- [ ] Computability and Complexity                      CS      172     Spring 2020
+- [X] ~~Introduction to Aritifical Intelligence~~       CS      185     In Progress
+
